@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iptracker/static/css/main.1adfc4a3.css",
+    "main.js": "/iptracker/static/js/main.fb44995f.js",
+    "static/media/pattern-bg.png": "/iptracker/static/media/pattern-bg.a60a3c85aa8b88aac4b7.png",
+    "index.html": "/iptracker/index.html",
+    "static/media/icon-arrow.svg": "/iptracker/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
+    "main.1adfc4a3.css.map": "/iptracker/static/css/main.1adfc4a3.css.map",
+    "main.fb44995f.js.map": "/iptracker/static/js/main.fb44995f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1adfc4a3.css",
+    "static/js/main.fb44995f.js"
+  ]
+}
